@@ -8,7 +8,7 @@
 - 👋 Hi, I’m @TalhaAksoy
 - 🔭 I’m currently working on a Ecole 42 if you can see , you can check it [here](https://github.com/TalhaAksoy)
 - 🌱 I’m currently learning : [HTML,CSS,JQuery],C,Python,Wordpress
-- 📫 How to reach me [Instagram](https://www.instagram.com/tlhksy3/)
+- 📫 How to reach me [Instagram](https://www.instagram.com/tlhksy3/) , My Website (talhaaksoy42.github.io)
 
 ---
 

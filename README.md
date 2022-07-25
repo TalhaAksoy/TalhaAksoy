@@ -1,52 +1,33 @@
-# Hello, folks! <img src="https://github.com/barimehdi77/barimehdi77/blob/main/wave.gif" width="30px">
----
+<h1 align="center">Hi 👋, I'm TalhaAksoy</h1>
+<h3 align="center">I'm Frontend Developer From Turkey.</h3>
 
-![Header.png](https://github.com/TalhaAksoy/TalhaAksoy/blob/main/header(1).jpg)
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=TalhaAksoy&&color=blue&style=flat-square"></p>
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=talhaaksoy&label=Profile%20views&color=0e75b6&style=flat" alt="talhaaksoy" /> </p>
 
-- 👋 Hi, I’m @TalhaAksoy
-- 🔭 I’m currently working on a Ecole 42 if you can see , you can check it [here](https://github.com/TalhaAksoy)
-- 🌱 I’m currently learning : [HTML,CSS,JQuery],C,Python,Wordpress
-- 📫 How to reach me [Instagram](https://www.instagram.com/tlhksy3/) , My Website (https://talhaaksoy42.github.io/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaaksoy" alt="talhaaksoy" /></a> </p>
 
----
+- 🔭 I’m currently working on [BB-TR-Kaynak](https://github.com/Fire-Oceann)
 
-![Alt Text](https://github.com/TalhaAksoy/TalhaAksoy/blob/main/giphy.gif)
+- 🌱 I’m currently learning **ReactJs, TailwindCss, Scss, TailwindFramework**
 
----
+- 👨‍💻 All of my projects are available at [https://talhaaksoy42.github.io/](https://talhaaksoy42.github.io/)
 
-[!["Buy Me A Pizza"](https://github.com/Fatihcloud/Fatihcloud/blob/main/orange_img(1).png)](https://www.buymeacoffee.com/TalhaAksoy)
+- 💬 Ask me about **React, Html, CSS, JS**
 
----
+- 📫 How to reach me **https://t.me/AlhazenTR && Ig:tlhksy3**
 
-### 👨‍💻 My 42 status
-[![mbari's 42 stats](https://badge42.herokuapp.com/api/stats/saksoy?cursus=C%20reloaded)](https://profile.intra.42.fr/users/saksoy)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/selim talha aksoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selim talha aksoy" height="30" width="40" /></a>
+<a href="https://instagram.com/tlhksy3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tlhksy3" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/alhazen tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alhazen tr" height="30" width="40" /></a>
+<a href="https://discord.gg/AlhazenTR#3878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AlhazenTR#3878" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## 42cursus Progress 💪🏻
-| No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
-| :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
-| 1   | [Libft](https://github.com/TalhaAksoy/42Cursus-Libft)    | [![TalhaAksoy 42Project Score](https://badge42.herokuapp.com/api/project/saksoy/Libft)](https://github.com/TalhaAksoy/42Cursus-Libft) |   | 10A | cub3d                                      | 🔒     |   | 20  | NetPractice                    | 🔒      |
-| 2   | [Born2beroot]                               | [![TalhaAksoy 42Project Score](https://badge42.herokuapp.com/api/project/saksoy/Born2beroot)](https://github.com/Fatihcloud/Libft_42)  |   | 10B | miniRT                                     | 🔒     |   | 21  | ft_containers                  | 🔒      |
-| 3   | [ft_printf](https://github.com/TalhaAksoy/42Cursus-Ft_printf)                               |[![TalhaAksoy 42Project Score](https://badge42.herokuapp.com/api/project/saksoy/ft_printf)](https://github.com/TalhaAksoy/42Cursus-Ft_printf)|   | 11  | [CPP Module 00]                            | 🔒     |   | 22A | ft_irc                         | 🔒      |
-| 4   | [get_next_line](https://github.com/TalhaAksoy/42Cursus-Get_Next_Line)     | [![TalhaAksoy 42Project Score](https://badge42.herokuapp.com/api/project/saksoy/get_next_line)](https://github.com/Fatihcloud/42Cursus-Get_Next_Line)  |   | 12  | CPP Module 01                              | 🔒     |   | 22B | webserv                        | 🔒      |
-| 5A  | FdF                                         | [![TalhaAksoy 42Project Score](https://badge42.herokuapp.com/api/project/fbulut/FdF)](https://github.com/Fatihcloud/Libft_42)  |   | 13  | CPP Module 02                              | 🔒     |   | 23  | Inception                      | 🔒      |
-| 5B  | [so_long]                                   | 🔒     |   | 14  | CPP Module 03                              | 🔒     |   | 24  | ft_transcendence               | 🔒      |
-| 6A  | [minitalk]                                  | 🔒     |   | 15  | CPP Module 04                              | 🔒     |   |     |                                |         |
-| 6B  | pipex                                       | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
-| 7   | [push_swap]                                 | 🔒     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
-| 8   | [minishell]                                 | 🔒     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
-| 9   | [Philosphers]                               | 🔒     |   | 19  | CPP Module 08                              | 🔒     |   | 25  | [netwhat](../../../42-netwhat) | 🔒      |
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaaksoy&show_icons=true&locale=en&layout=compact" alt="talhaaksoy" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talhaaksoy&show_icons=true&locale=en" alt="talhaaksoy" /></p>
 
-### 📈 My Github status:
-[![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=TalhaAksoy&show_icons=true&theme=radical)](https://github.com/TalhaAksoy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaAksoy&layout=compact&theme=radical)](https://github.com/TalhaAksoy)
-
-<!---
-TalhaAksoy/TalhaAksoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaaksoy&" alt="talhaaksoy" /></p>

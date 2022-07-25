@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/selim talha aksoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selim talha aksoy" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/selim talha aksoy](https://www.linkedin.com/in/selim-talha-aksoy-1b1649233/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selim talha aksoy" height="30" width="40" /></a>
 <a href="https://instagram.com/tlhksy3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tlhksy3" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/alhazen tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alhazen tr" height="30" width="40" /></a>
 <a href="https://discord.gg/AlhazenTR#3878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AlhazenTR#3878" height="30" width="40" /></a>

@@ -23,7 +23,7 @@
 <a href="https://discord.gg/AlhazenTR#3878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AlhazenTR#3878" height="30" width="40" /></a>
 </p>
 
-<h3>My Youtube Channel <a href="https://www.youtube.com/channel/UCDc0WPgvJkfThIAu4VcPDtQ">Alhazen TR</a></h3>
+<h3>My Youtube Channel <a href="https://www.youtube.com/channel/UCDc0WPgvJkfThIAu4VcPDtQ" target="_blank">Alhazen TR</a></h3>
 
 ![Alhazen TR's youtube channel stats](https://youtube-stats-card.vercel.app/api?channelid=UCDc0WPgvJkfThIAu4VcPDtQ&layout=extruded&theme=radical)
 

@@ -25,6 +25,9 @@
 
 <h3>My Youtube Channel <a href="https://www.youtube.com/channel/UCDc0WPgvJkfThIAu4VcPDtQ" target="_blank">Alhazen TR</a></h3>
 
+### 👨‍💻 My 42 status
+[![saksoy's 42 stats](https://badge42.vercel.app/api/v2/cl977v9nc00300gkz9cm5re72/stats?cursusId=21&coalitionId=227)](https://github.com/talhaaksoy)
+
 ![Alhazen TR's youtube channel stats](https://youtube-stats-card.vercel.app/api?channelid=UCDc0WPgvJkfThIAu4VcPDtQ&layout=extruded&theme=radical)
 
 <h3 align="center">Languages and Tools:</h3>

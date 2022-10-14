@@ -1,40 +1,57 @@
-<h1 align="left">Hi 👋, I'm TalhaAksoy</h1>
-<h3 align="left">I'm Frontend Developer From Turkey.</h3>
+<h1 align="center">Hi 👋, I'm TalhaAksoy</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=talhaaksoy&label=Profile%20views&color=0e75b6&style=flat" alt="talhaaksoy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=talhaaksoy&label=Profile%20views&color=0e75b6&style=flat" alt="talhaaksoy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaaksoy" alt="talhaaksoy" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaaksoy&row=1" alt="talhaaksoy" /></a> </p>
 
-- 🔭 I’m currently working on [BB-TR-Kaynak](https://github.com/Fire-Oceann)
+<details align="center">
+	<summary><b>Programming Language 💻</b></summary>
 
-- 🌱 I’m currently learning **ReactJs, TailwindCss, Scss, TailwindFramework**
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+</details>
 
-- 👨‍💻 All of my projects are available at [https://talhaaksoy42.github.io/](https://talhaaksoy42.github.io/)
+<details align="center">
+	<summary><b>IDE 👩‍💻</b></summary>
 
-- 💬 Ask me about **React, Html, CSS, JS**
+![Atom](https://img.shields.io/badge/Atom-000000?style=flat&logo=atom&logoColor=white)
+![Clion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Visual Stduio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
+</details>
 
-- 📫 How to reach me **https://t.me/AlhazenTR && Ig:tlhksy3**
+<details align="center">
+	<summary><b>Library & Frameworks🚀</b></summary>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/selim-talha-aksoy-1b1649233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selim talha aksoy" height="30" width="40" /></a>
-<a href="https://instagram.com/tlhksy3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tlhksy3" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCDc0WPgvJkfThIAu4VcPDtQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alhazen tr" height="30" width="40" /></a>
-<a href="https://discord.gg/AlhazenTR#3878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AlhazenTR#3878" height="30" width="40" /></a>
-</p>
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/Tailwind%20Css-00599C?style=flat&logo=tailwindcss&logoColor=white)
+![Scss](https://img.shields.io/badge/Scss-00599C?style=flat&logo=scss&logoColor=white&color=ff69b4)
+![ReactJs](https://img.shields.io/badge/React-00599C?style=flat&logo=react&logoColor=white&color=9cf)
+</details>
 
-<h3>My Youtube Channel <a href="https://www.youtube.com/channel/UCDc0WPgvJkfThIAu4VcPDtQ" target="_blank">Alhazen TR</a></h3>
+<br>
+<p align="center">### 👨‍💻 My 42 status</p>
+<p align="center"><img src="https://badge42.vercel.app/api/v2/cl977v9nc00300gkz9cm5re72/stats?cursusId=21&coalitionId=227"/></p>
 
-### 👨‍💻 My 42 status
-[![saksoy's 42 stats](https://badge42.vercel.app/api/v2/cl977v9nc00300gkz9cm5re72/stats?cursusId=21&coalitionId=227)](https://github.com/talhaaksoy)
+<p align="center"><img src="https://youtube-stats-card.vercel.app/api?channelid=UCDc0WPgvJkfThIAu4VcPDtQ&layout=extruded&theme=radical"/></p>
 
-![Alhazen TR's youtube channel stats](https://youtube-stats-card.vercel.app/api?channelid=UCDc0WPgvJkfThIAu4VcPDtQ&layout=extruded&theme=radical)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaaksoy&show_icons=true&locale=en&layout=compact" alt="talhaaksoy" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talhaaksoy&show_icons=true&locale=en" alt="talhaaksoy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talhaaksoy&show_icons=true&locale=en" alt="talhaaksoy" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaaksoy&show_icons=true&locale=en&layout=compact" alt="talhaaksoy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaaksoy&" alt="talhaaksoy" /></p>

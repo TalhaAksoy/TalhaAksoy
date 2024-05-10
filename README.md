@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm TalhaAksoy</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=talhaaksoy&label=Profile%20views&color=0e75b6&style=flat" alt="talhaaksoy" /> </p>
 
+
+<p align="center"><a href="https://app.daily.dev/alha"><img src="https://api.daily.dev/devcards/v2/9WoFEmDQsw4Wgd9Ppjp1s.png?type=wide&r=r98" width="652" alt="Talha Aksoy's Dev Card"/></a></p>
+
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaaksoy&row=1" alt="talhaaksoy" /></a> </p>
 
-<details align="center">
+<!-- <details align="center">
 	<summary><b>Programming Language 💻</b></summary>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -41,11 +44,9 @@
 ![TailwindCss](https://img.shields.io/badge/Tailwind%20Css-00599C?style=flat&logo=tailwindcss&logoColor=white)
 ![Scss](https://img.shields.io/badge/Scss-00599C?style=flat&logo=scss&logoColor=white&color=ff69b4)
 ![ReactJs](https://img.shields.io/badge/React-00599C?style=flat&logo=react&logoColor=white&color=9cf)
-</details>
+</details> -->
 
 <br>
-<p align="center">### 👨‍💻 My 42 status</p>
-<p align="center"><img src="https://badge42.vercel.app/api/v2/cl977v9nc00300gkz9cm5re72/stats?cursusId=21&coalitionId=227"/></p>
 
 <p align="center"><img src="https://youtube-stats-card.vercel.app/api?channelid=UCDc0WPgvJkfThIAu4VcPDtQ&layout=extruded&theme=radical"/></p>
 
